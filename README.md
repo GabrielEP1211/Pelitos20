@@ -1,4 +1,4 @@
-# Pelitos20
+# PracticaCURP
 
 ### Mi primer repositorio que pueden clonar 
 ### y la primera vez que voy a hacer un pull request 
